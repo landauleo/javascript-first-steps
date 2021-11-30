@@ -1,2 +1,2 @@
 # javascript-first-steps
-https://www.udemy.com/course/javascript_full/
+play aroung with https://www.udemy.com/course/javascript_full/
